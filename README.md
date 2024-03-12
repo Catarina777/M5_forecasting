@@ -2,6 +2,7 @@
 
 ## Contents
 Data Files: The data.zip file contains all the datasets required for the predictive modeling tasks. This contain information about walmart sales from 2011 up until the middle of 2016.
+
 Jupyter Notebooks: There are written in Python and perform various tasks related to data exploration, preprocessing, and predictive modeling.
 
 ## Jupyter Notebooks:
@@ -19,12 +20,13 @@ Jupyter Notebooks: There are written in Python and perform various tasks related
 ## Usage
 To utilize the provided notebooks and datasets, follow these steps:
 
-Clone or download this repository to your local machine.
-Unzip the data.zip file to access the datasets.
-Open and execute the desired Jupyter Notebook(s) using Python environment with necessary dependencies installed.
-Follow the instructions within each notebook to perform data exploration, preprocessing, and modeling tasks.
+- Clone or download this repository to your local machine.
+- Unzip the data.zip file to access the datasets.
+- Open and execute the desired Jupyter Notebook(s) using Python environment with necessary dependencies installed.
+- Follow the instructions within each notebook to perform data exploration, preprocessing, and modeling tasks.
 
 ## Dependencies
+
 The notebooks require the following Python libraries:
 
 - Pandas
@@ -33,4 +35,5 @@ The notebooks require the following Python libraries:
 - Seaborn
 - Statsmodels
 - Scikit-learn
+
 Ensure that these libraries are installed in your Python environment before executing the notebooks.
