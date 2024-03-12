@@ -1,10 +1,8 @@
 # M5 forecasting
 
-## Overview
-This repository contains a collection of Jupyter Notebook files and a zip file containing datasets with information about walmart sales from 2011 up until the middle of 2016, with the goal of peforming predictive modeling tasks. The provided Jupyter Notebooks are written in Python and perform various tasks related to data exploration, preprocessing, and predictive modeling.
-
 ## Contents
-Data Files: The data.zip file contains all the datasets required for the predictive modeling tasks.
+Data Files: The data.zip file contains all the datasets required for the predictive modeling tasks. This contain information about walmart sales from 2011 up until the middle of 2016.
+Jupyter Notebooks: There are written in Python and perform various tasks related to data exploration, preprocessing, and predictive modeling.
 
 ## Jupyter Notebooks:
 
