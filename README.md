@@ -23,7 +23,6 @@ To utilize the provided notebooks and datasets, follow these steps:
 - Clone or download this repository to your local machine.
 - Unzip the data.zip file to access the datasets.
 - Open and execute the desired Jupyter Notebook(s) using Python environment with necessary dependencies installed.
-- Follow the instructions within each notebook to perform data exploration, preprocessing, and modeling tasks.
 
 ## Dependencies
 
