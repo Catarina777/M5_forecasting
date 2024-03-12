@@ -31,8 +31,8 @@ The notebooks require the following Python libraries:
 
 - Pandas
 - NumPy
- -Matplotlib
- -Seaborn
+- Matplotlib
+- Seaborn
 - Statsmodels
 - Scikit-learn
 Ensure that these libraries are installed in your Python environment before executing the notebooks.
